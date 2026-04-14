@@ -1,67 +1,63 @@
+<h1 align="center">Krishna Singh</h1>
+<h3 align="center">AI/ML Engineer | LLMOps | GenAI Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Krishna Singh</h1>
-<h3 align="center">🚀 AI Developer | Multi-Agent Systems | Backend Engineer</h3>
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;FastAPI+Backend+Engineer;Multi-Agent+System+Builder;Always+Learning+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=LLMOps+Engineer;RAG+Systems+Builder;Multi-Agent+AI+Developer;Scaling+GenAI+Systems" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Multi-Agent AI Systems**
-- ⚡ Building scalable backend using **FastAPI & MongoDB**
-- 🧩 Love solving real-world problems using AI
-- 🚀 Exploring **LLMs, Agents & Automation**
+- AI/ML Engineer focused on **LLMOps, RAG & Multi-Agent Systems**
+- Building **scalable GenAI applications & backend systems**
+- Strong in **performance optimization & real-world deployment**
+- Passionate about **automation, agents & intelligent systems**
+
+---
+
+## ⚙️ Core Skills
+
+- **AI/LLM:** RAG, Multi-Agent Systems, LangChain, Transformers  
+- **Backend:** Python, FastAPI, AsyncIO, Microservices  
+- **Systems:** Redis, Celery, Docker, Distributed Systems  
+- **Databases:** MongoDB, PostgreSQL, FAISS, Pinecone  
+
+---
+
+## 🚀 Key Impact
+
+- ⚡ Reduced LLM latency by **32%** using optimization techniques  
+- 📈 Improved RAG accuracy by **18%**  
+- 🚀 Optimized backend performance by **22%**  
+- ⚙️ Built scalable pipelines for high-throughput systems  
+
+---
+
+## 🔥 Projects
+
+- **Multi-Agent Code System** → Autonomous AI agents for code workflows  
+- **RAG Pipeline (Production)** → Low-latency retrieval + GPU inference  
+- **PDF Data Extraction System** → Structured extraction from complex docs  
+- **Voice AI Agent** → Real-time assistant with <900ms latency  
+- **AI Book Generator** → Automated content generation pipeline  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-- Python 🐍
-- JavaScript ⚡
-
-### ⚙️ Backend
-- FastAPI 🚀
-- Node.js
-
-### 🧠 AI / ML
-- OpenAI APIs
-- LangChain
-- Multi-Agent Systems
-
-### 🗄 Database
-- MongoDB 🍃
-- Redis
+Python • FastAPI • MongoDB • Redis • Docker • LangChain • OpenAI • FAISS  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-735722&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-735722&layout=compact&theme=radical)
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 Multi-Agent System
-- AI agents working together
-- FastAPI backend + MongoDB
-- Scalable architecture
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-735722&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Mindset
 
-- 📧 Email: Krishna735722@gmial.com
-
----
-
-## ⚡ Fun Fact
-> I build AI systems faster than bugs appear 😄
-
----
+> Building intelligent systems that scale in the real world.
