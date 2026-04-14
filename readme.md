@@ -57,8 +57,7 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (add link here)
-- 📧 Email: (add email)
+- 📧 Email: Krishna735722@gmial.com
 
 ---
 
